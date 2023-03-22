@@ -1,4 +1,3 @@
-# Codeforces-Solution--349A-Cinema-Line
 #include<iostream>
 
 using namespace std;
